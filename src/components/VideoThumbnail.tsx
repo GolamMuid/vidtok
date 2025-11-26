@@ -7,7 +7,7 @@ const VideoThumbnail = () => {
       {/* <Image src={""} height={128} width={128} alt="" /> */}
       <Skeleton className="h-[200px] w-full rounded-4xl" />
       <div className="text-2xl font-bold">Title</div>
-      <div className="text-gray-400"> Date Posted</div>
+      <div className="text-gray-400"> Date Posted :</div>
     </div>
   );
 };
